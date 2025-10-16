@@ -1,0 +1,62 @@
+[
+  {
+    "titulo": "Titanic",
+    "director": "James Cameron",
+    "genero": ["Romance", "Drama"],
+    "año": 1997
+  },
+  {
+    "titulo": "El Padrino",
+    "director": "Francis Ford Coppola",
+    "genero": ["Crimen", "Drama"],
+    "año": 1972
+  },
+  {
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "genero": ["Ciencia Ficción", "Acción", "Misterio"],
+    "año": 2010
+  },
+  {
+    "titulo": "La La Land",
+    "director": "Damien Chazelle",
+    "genero": ["Musical", "Romance", "Drama"],
+    "año": 2016
+  },
+  {
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "director": "Peter Jackson",
+    "año": 2001,
+    "genero": ["Fantasía", "Aventura", "Acción"]
+  },
+  {
+    "titulo": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "año": 1994,
+    "genero": ["Drama", "Comedia", "Romance"]
+  },
+  {
+    "titulo": "Avengers: Endgame",
+    "director": "Anthony y Joe Russo",
+    "año": 2019,
+    "genero": ["Acción", "Ciencia Ficción", "Aventura"]
+  },
+  {
+    "titulo": "Coco",
+    "director": "Lee Unkrich",
+    "año": 2017,
+    "genero": ["Animación", "Aventura", "Familiar"]
+  },
+  {
+    "titulo": "Parásitos",
+    "director": "Bong Joon-ho",
+    "año": 2019,
+    "genero": ["Drama", "Suspenso"]
+  },
+  {
+    "titulo": "Intensamente",
+    "director": "Pete Docter",
+    "año": 2015,
+    "genero": ["Animación", "Familiar", "Comedia"]
+  }
+]

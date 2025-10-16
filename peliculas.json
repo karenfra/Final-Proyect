@@ -1,0 +1,238 @@
+[
+  {
+    "titulo": "Titanic",
+    "director": "James Cameron",
+    "genero": [
+      "Romance",
+      "Drama"
+    ],
+    "año": 1997
+  },
+  {
+    "titulo": "El Padrino",
+    "director": "Francis Ford Coppola",
+    "genero": [
+      "Crimen",
+      "Drama"
+    ],
+    "año": 1972
+  },
+  {
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "genero": [
+      "Ciencia Ficción",
+      "Acción",
+      "Misterio"
+    ],
+    "año": 2010
+  },
+  {
+    "titulo": "La La Land",
+    "director": "Damien Chazelle",
+    "genero": [
+      "Musical",
+      "Romance",
+      "Drama"
+    ],
+    "año": 2016
+  },
+  {
+    "titulo": "El Señor de los Anillos: La Comunidad del Anillo",
+    "director": "Peter Jackson",
+    "año": 2001,
+    "genero": [
+      "Fantasía",
+      "Aventura",
+      "Acción"
+    ]
+  },
+  {
+    "titulo": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "año": 1994,
+    "genero": [
+      "Drama",
+      "Comedia",
+      "Romance"
+    ]
+  },
+  {
+    "titulo": "Avengers: Endgame",
+    "director": "Anthony y Joe Russo",
+    "año": 2019,
+    "genero": [
+      "Acción",
+      "Ciencia Ficción",
+      "Aventura"
+    ]
+  },
+  {
+    "titulo": "Coco",
+    "director": "Lee Unkrich",
+    "año": 2017,
+    "genero": [
+      "Animación",
+      "Aventura",
+      "Familiar"
+    ]
+  },
+  {
+    "titulo": "Parásitos",
+    "director": "Bong Joon-ho",
+    "año": 2019,
+    "genero": [
+      "Drama",
+      "Suspenso"
+    ]
+  },
+  {
+    "titulo": "Intensamente",
+    "director": "Pete Docter",
+    "año": 2015,
+    "genero": [
+      "Animación",
+      "Familiar",
+      "Comedia"
+    ]
+  },
+  {
+    "titulo": "Gladiator",
+    "director": "Ridley Scott",
+    "genero": [
+      "Acción",
+      "Drama",
+      "Histórica"
+    ],
+    "año": 2000
+  },
+  {
+    "titulo": "Avatar",
+    "director": "James Cameron",
+    "genero": [
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "año": 2009
+  },
+  {
+    "titulo": "Joker",
+    "director": "Todd Phillips",
+    "genero": [
+      "Drama",
+      "Crimen",
+      "Psicológica"
+    ],
+    "año": 2019
+  },
+  {
+    "titulo": "Matrix",
+    "director": "Lana y Lilly Wachowski",
+    "genero": [
+      "Acción",
+      "Ciencia Ficción"
+    ],
+    "año": 1999
+  },
+  {
+    "titulo": "Amélie",
+    "director": "Jean-Pierre Jeunet",
+    "genero": [
+      "Comedia",
+      "Romance"
+    ],
+    "año": 2001
+  },
+  {
+    "titulo": "Gloria",
+    "director": "Sebastián Lelio",
+    "genero": [
+      "Drama"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "Rocky",
+    "director": "John G. Avildsen",
+    "genero": [
+      "Drama",
+      "Deportes"
+    ],
+    "año": 1976
+  },
+  {
+    "titulo": "Frozen",
+    "director": "Chris Buck y Jennifer Lee",
+    "genero": [
+      "Animación",
+      "Familiar",
+      "Musical"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "Alien",
+    "director": "Ridley Scott",
+    "genero": [
+      "Terror",
+      "Ciencia Ficción"
+    ],
+    "año": 1979
+  },
+  {
+    "titulo": "Memento",
+    "director": "Christopher Nolan",
+    "genero": [
+      "Misterio",
+      "Thriller",
+      "Drama"
+    ],
+    "año": 2000
+  },
+  {
+    "titulo": "Dune",
+    "director": "Denis Villeneuve",
+    "genero": [
+      "Ciencia Ficción",
+      "Aventura"
+    ],
+    "año": 2021
+  },
+  {
+    "titulo": "Whiplash",
+    "director": "Damien Chazelle",
+    "genero": [
+      "Drama",
+      "Música"
+    ],
+    "año": 2014
+  },
+  {
+    "titulo": "Gravity",
+    "director": "Alfonso Cuarón",
+    "genero": [
+      "Ciencia Ficción",
+      "Thriller"
+    ],
+    "año": 2013
+  },
+  {
+    "titulo": "Jaws",
+    "director": "Steven Spielberg",
+    "genero": [
+      "Terror",
+      "Aventura"
+    ],
+    "año": 1975
+  },
+  {
+    "titulo": "Her",
+    "director": "Spike Jonze",
+    "genero": [
+      "Romance",
+      "Ciencia Ficción",
+      "Drama"
+    ],
+    "año": 2013
+  }
+]
