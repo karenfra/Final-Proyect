@@ -1,0 +1,146 @@
+[
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "genero": ["Distopía", "Ciencia Ficción"],
+    "año": 1949
+  },
+  {
+    "titulo": "La Odisea",
+    "autor": "Homero",
+    "genero": ["Épica", "Aventura"],
+    "año": -800
+  },
+  {
+    "titulo": "Frankenstein",
+    "autor": "Mary Shelley",
+    "genero": ["Ciencia Ficción", "Terror"],
+    "año": 1818
+  },
+  {
+    "titulo": "Drácula",
+    "autor": "Bram Stoker",
+    "genero": ["Terror", "Gótico"],
+    "año": 1897
+  },
+  {
+    "titulo": "El señor de los anillos",
+    "autor": "J.R.R. Tolkien",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1954
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "genero": ["Distopía", "Ciencia Ficción"],
+    "año": 1953
+  },
+  {
+    "titulo": "Harry Potter y la piedra filosofal",
+    "autor": "J.K. Rowling",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1997
+  },
+  {
+    "titulo": "El código Da Vinci",
+    "autor": "Dan Brown",
+    "genero": ["Misterio", "Thriller"],
+    "año": 2003
+  },
+  {
+    "titulo": "Los juegos del hambre",
+    "autor": "Suzanne Collins",
+    "genero": ["Distopía", "Acción"],
+    "año": 2008
+  },
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "genero": ["Realismo mágico", "Drama"],
+    "año": 1967
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "genero": ["Romance", "Clásico"],
+    "año": 1813
+  },
+  {
+    "titulo": "Alicia en el país de las maravillas",
+    "autor": "Lewis Carroll",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1865
+  },
+  {
+    "titulo": "It",
+    "autor": "Stephen King",
+    "genero": ["Terror", "Suspenso"],
+    "año": 1986
+  },
+  {
+    "titulo": "El alquimista",
+    "autor": "Paulo Coelho",
+    "genero": ["Filosófico", "Aventura"],
+    "año": 1988
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "genero": ["Drama", "Ficción social"],
+    "año": 1960
+  },
+  {
+    "titulo": "Los miserables",
+    "autor": "Victor Hugo",
+    "genero": ["Drama histórico", "Ficción social"],
+    "año": 1862
+  },
+  {
+    "titulo": "La Divina Comedia",
+    "autor": "Dante Alighieri",
+    "genero": ["Poesía épica", "Religioso", "Filosófico"],
+    "año": 1320
+  },
+  {
+    "titulo": "El Decamerón",
+    "autor": "Giovanni Boccaccio",
+    "genero": ["Narrativa", "Cuentos", "Sátira social"],
+    "año": 1353
+  },
+  {
+    "titulo": "Cancionero",
+    "autor": "Francesco Petrarca",
+    "genero": ["Poesía lírica", "Amor cortés"],
+    "año": 1374
+  },
+  {
+    "titulo": "Dune",
+    "autor": "Frank Herbert",
+    "genero": ["Ciencia Ficción", "Aventura"],
+    "año": 1965
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "genero": ["Drama", "Misterio"],
+    "año": 1981
+  },
+  {
+    "titulo": "Los heraldos negros",
+    "autor": "César Vallejo",
+    "genero": ["Poesía", "Vanguardismo"],
+    "año": 1919
+  },
+  {
+    "titulo": "Trilce",
+    "autor": "César Vallejo",
+    "genero": ["Poesía", "Vanguardismo", "Experimental"],
+    "año": 1922
+  },
+  {
+    "titulo": "Rimas",
+    "autor": "Gustavo Adolfo Bécquer",
+    "genero": ["Poesía lírica", "Romanticismo"],
+    "año": 1871
+  }
+]
