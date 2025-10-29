@@ -142,5 +142,671 @@
     "autor": "Gustavo Adolfo Bécquer",
     "genero": ["Poesía lírica", "Romanticismo"],
     "año": 1871
+  },
+  {
+    "titulo": "El retrato de Dorian Gray",
+    "autor": "Oscar Wilde",
+    "genero": ["Filosófico", "Gótico"],
+    "año": 1890
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes Saavedra",
+    "genero": ["Sátira", "Aventura", "Clásico"],
+    "año": 1605
+  },
+  {
+    "titulo": "Ensayo sobre la ceguera",
+    "autor": "José Saramago",
+    "genero": ["Distopía", "Filosófico"],
+    "año": 1995
+  },
+  {
+    "titulo": "El principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "genero": ["Fábula", "Filosófico"],
+    "año": 1943
+  },
+  {
+    "titulo": "Las flores del mal",
+    "autor": "Charles Baudelaire",
+    "genero": ["Poesía", "Simbolismo"],
+    "año": 1857
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "genero": ["Experimental", "Realismo mágico"],
+    "año": 1963
+  },
+  {
+    "titulo": "La casa de los espíritus",
+    "autor": "Isabel Allende",
+    "genero": ["Realismo mágico", "Drama familiar"],
+    "año": 1982
+  },
+  {
+    "titulo": "El nombre del viento",
+    "autor": "Patrick Rothfuss",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 2007
+  },
+  {
+    "titulo": "Neuromante",
+    "autor": "William Gibson",
+    "genero": ["Ciencia Ficción", "Ciberpunk"],
+    "año": 1984
+  },
+  {
+    "titulo": "El perfume",
+    "autor": "Patrick Süskind",
+    "genero": ["Histórico", "Suspenso", "Filosófico"],
+    "año": 1985
+  },
+  {
+    "titulo": "La sombra del viento",
+    "autor": "Carlos Ruiz Zafón",
+    "genero": ["Misterio", "Ficción histórica"],
+    "año": 2001
+  },
+  {
+    "titulo": "Cumbres borrascosas",
+    "autor": "Emily Brontë",
+    "genero": ["Romance", "Gótico"],
+    "año": 1847
+  },
+  {
+    "titulo": "El psicoanalista",
+    "autor": "John Katzenbach",
+    "genero": ["Thriller", "Psicológico"],
+    "año": 2002
+  },
+  {
+    "titulo": "La naranja mecánica",
+    "autor": "Anthony Burgess",
+    "genero": ["Distopía", "Ciencia Ficción"],
+    "año": 1962
+  },
+  {
+    "titulo": "Tokio Blues (Norwegian Wood)",
+    "autor": "Haruki Murakami",
+    "genero": ["Drama", "Romance"],
+    "año": 1987
+  },
+  {
+    "titulo": "Kafka en la orilla",
+    "autor": "Haruki Murakami",
+    "genero": ["Filosófico", "Surrealismo"],
+    "año": 2002
+  },
+  {
+    "titulo": "La carretera",
+    "autor": "Cormac McCarthy",
+    "genero": ["Distopía", "Drama"],
+    "año": 2006
+  },
+  {
+    "titulo": "La insoportable levedad del ser",
+    "autor": "Milan Kundera",
+    "genero": ["Filosófico", "Romance"],
+    "año": 1984
+  },
+  {
+    "titulo": "Crimen y castigo",
+    "autor": "Fiódor Dostoyevski",
+    "genero": ["Psicológico", "Filosófico", "Drama"],
+    "año": 1866
+  },
+  {
+    "titulo": "Los hermanos Karamázov",
+    "autor": "Fiódor Dostoyevski",
+    "genero": ["Filosófico", "Religioso", "Drama"],
+    "año": 1880
+  },
+  {
+    "titulo": "Guerra y paz",
+    "autor": "León Tolstói",
+    "genero": ["Histórico", "Drama", "Filosófico"],
+    "año": 1869
+  },
+  {
+    "titulo": "Anna Karénina",
+    "autor": "León Tolstói",
+    "genero": ["Romance", "Realismo"],
+    "año": 1877
+  },
+  {
+    "titulo": "El extranjero",
+    "autor": "Albert Camus",
+    "genero": ["Existencialismo", "Filosófico"],
+    "año": 1942
+  },
+  {
+    "titulo": "La peste",
+    "autor": "Albert Camus",
+    "genero": ["Filosófico", "Existencialismo", "Drama"],
+    "año": 1947
+  },
+  {
+    "titulo": "Siddhartha",
+    "autor": "Hermann Hesse",
+    "genero": ["Filosófico", "Espiritual"],
+    "año": 1922
+  },
+  {
+    "titulo": "El lobo estepario",
+    "autor": "Hermann Hesse",
+    "genero": ["Filosófico", "Psicológico"],
+    "año": 1927
+  },
+  {
+    "titulo": "Ulises",
+    "autor": "James Joyce",
+    "genero": ["Modernismo", "Experimental"],
+    "año": 1922
+  },
+  {
+    "titulo": "Retrato del artista adolescente",
+    "autor": "James Joyce",
+    "genero": ["Autobiográfico", "Modernismo"],
+    "año": 1916
+  },
+  {
+    "titulo": "La metamorfosis",
+    "autor": "Franz Kafka",
+    "genero": ["Existencialismo", "Surrealismo"],
+    "año": 1915
+  },
+  {
+    "titulo": "El proceso",
+    "autor": "Franz Kafka",
+    "genero": ["Absurdismo", "Filosófico"],
+    "año": 1925
+  },
+  {
+    "titulo": "Cuentos de amor, de locura y de muerte",
+    "autor": "Horacio Quiroga",
+    "genero": ["Terror", "Psicológico"],
+    "año": 1917
+  },
+  {
+    "titulo": "Pedro Páramo",
+    "autor": "Juan Rulfo",
+    "genero": ["Realismo mágico", "Drama"],
+    "año": 1955
+  },
+  {
+    "titulo": "El túnel",
+    "autor": "Ernesto Sabato",
+    "genero": ["Psicológico", "Existencialismo"],
+    "año": 1948
+  },
+  {
+    "titulo": "Ficciones",
+    "autor": "Jorge Luis Borges",
+    "genero": ["Fantasía", "Filosófico"],
+    "año": 1944
+  },
+  {
+    "titulo": "El Aleph",
+    "autor": "Jorge Luis Borges",
+    "genero": ["Filosófico", "Fantasía"],
+    "año": 1949
+  },
+  {
+    "titulo": "Bestiario",
+    "autor": "Julio Cortázar",
+    "genero": ["Surrealismo", "Realismo mágico"],
+    "año": 1951
+  },
+  {
+    "titulo": "Final del juego",
+    "autor": "Julio Cortázar",
+    "genero": ["Realismo mágico", "Experimental"],
+    "año": 1956
+  },
+  {
+    "titulo": "Conversación en La Catedral",
+    "autor": "Mario Vargas Llosa",
+    "genero": ["Político", "Ficción social"],
+    "año": 1969
+  },
+  {
+    "titulo": "La ciudad y los perros",
+    "autor": "Mario Vargas Llosa",
+    "genero": ["Ficción social", "Drama"],
+    "año": 1963
+  },
+  {
+    "titulo": "Pantaleón y las visitadoras",
+    "autor": "Mario Vargas Llosa",
+    "genero": ["Sátira", "Comedia"],
+    "año": 1973
+  },
+  {
+    "titulo": "2666",
+    "autor": "Roberto Bolaño",
+    "genero": ["Filosófico", "Experimental", "Drama"],
+    "año": 2004
+  },
+  {
+    "titulo": "Los detectives salvajes",
+    "autor": "Roberto Bolaño",
+    "genero": ["Narrativa contemporánea", "Poesía", "Drama"],
+    "año": 1998
+  },
+  {
+    "titulo": "La ladrona de libros",
+    "autor": "Markus Zusak",
+    "genero": ["Histórico", "Drama"],
+    "año": 2005
+  },
+  {
+    "titulo": "Bajo la misma estrella",
+    "autor": "John Green",
+    "genero": ["Romance", "Drama"],
+    "año": 2012
+  },
+  {
+    "titulo": "El juego de Ender",
+    "autor": "Orson Scott Card",
+    "genero": ["Ciencia Ficción", "Bélico"],
+    "año": 1985
+  },
+  {
+    "titulo": "Ready Player One",
+    "autor": "Ernest Cline",
+    "genero": ["Ciencia Ficción", "Aventura"],
+    "año": 2011
+  },
+  {
+    "titulo": "El cuento de la criada",
+    "autor": "Margaret Atwood",
+    "genero": ["Distopía", "Feminismo"],
+    "año": 1985
+  },
+  {
+    "titulo": "Buenos presagios",
+    "autor": ["Neil Gaiman", "Terry Pratchett"],
+    "genero": ["Fantasía", "Comedia"],
+    "año": 1990
+  },
+  {
+    "titulo": "American Gods",
+    "autor": "Neil Gaiman",
+    "genero": ["Fantasía", "Mitología"],
+    "año": 2001
+  },
+  {
+    "titulo": "Coraline",
+    "autor": "Neil Gaiman",
+    "genero": ["Terror", "Fantasía"],
+    "año": 2002
+  },
+  {
+    "titulo": "Nunca me abandones",
+    "autor": "Kazuo Ishiguro",
+    "genero": ["Distopía", "Drama"],
+    "año": 2005
+  },
+  {
+    "titulo": "Klara y el sol",
+    "autor": "Kazuo Ishiguro",
+    "genero": ["Ciencia Ficción", "Filosófico"],
+    "año": 2021
+  },
+  {
+    "titulo": "El cuento de los anillos de poder",
+    "autor": "J.R.R. Tolkien",
+    "genero": ["Fantasía", "Mitología"],
+    "año": 1977
+  },
+  {
+    "titulo": "La historia interminable",
+    "autor": "Michael Ende",
+    "genero": ["Fantasía", "Aventura"],
+    "año": 1979
+  },
+  {
+    "titulo": "Los pilares de la Tierra",
+    "autor": "Ken Follett",
+    "genero": ["Histórico", "Drama"],
+    "año": 1989
+  },
+  {
+    "titulo": "Sapiens: De animales a dioses",
+    "autor": "Yuval Noah Harari",
+    "genero": ["Ensayo", "Historia", "Filosofía"],
+    "año": 2011
+  },
+  {
+    "titulo": "Homo Deus: Breve historia del mañana",
+    "autor": "Yuval Noah Harari",
+    "genero": ["Ensayo", "Filosofía", "Ciencia"],
+    "año": 2015
+  },
+  {
+    "titulo": "El hombre en busca de sentido",
+    "autor": "Viktor Frankl",
+    "genero": ["Psicología", "Filosófico"],
+    "año": 1946
+  },
+  {
+    "titulo": "Meditaciones",
+    "autor": "Marco Aurelio",
+    "genero": ["Filosofía", "Estoicismo"],
+    "año": 180
+  },
+  {
+    "titulo": "Más allá del bien y del mal",
+    "autor": "Friedrich Nietzsche",
+    "genero": ["Filosofía", "Moral"],
+    "año": 1886
+  },
+  {
+    "titulo": "Así habló Zaratustra",
+    "autor": "Friedrich Nietzsche",
+    "genero": ["Filosofía", "Alegórico"],
+    "año": 1883
+  },
+  {
+    "titulo": "El arte de la guerra",
+    "autor": "Sun Tzu",
+    "genero": ["Estrategia", "Filosofía"],
+    "año": -500
+  },
+  {
+    "titulo": "El príncipe",
+    "autor": "Nicolás Maquiavelo",
+    "genero": ["Política", "Filosofía"],
+    "año": 1532
+  },
+    {
+    "titulo": "La Ilíada",
+    "autor": "Homero",
+    "genero": ["Épica", "Mitología"],
+    "año": -750
+  },
+  {
+    "titulo": "Las Metamorfosis",
+    "autor": "Ovidio",
+    "genero": ["Mitología", "Poesía épica"],
+    "año": 8
+  },
+  {
+    "titulo": "La Eneida",
+    "autor": "Virgilio",
+    "genero": ["Épica", "Mitología"],
+    "año": -19
+  },
+  {
+    "titulo": "Antígona",
+    "autor": "Sófocles",
+    "genero": ["Tragedia", "Drama"],
+    "año": -441
+  },
+  {
+    "titulo": "Edipo Rey",
+    "autor": "Sófocles",
+    "genero": ["Tragedia", "Drama"],
+    "año": -429
+  },
+  {
+    "titulo": "Las nubes",
+    "autor": "Aristófanes",
+    "genero": ["Comedia", "Sátira"],
+    "año": -423
+  },
+  {
+    "titulo": "Prometeo encadenado",
+    "autor": "Esquilo",
+    "genero": ["Tragedia", "Mitología"],
+    "año": -460
+  },
+  {
+    "titulo": "Las Bacantes",
+    "autor": "Eurípides",
+    "genero": ["Tragedia", "Mitología"],
+    "año": -405
+  },
+  {
+    "titulo": "Los trabajos y los días",
+    "autor": "Hesíodo",
+    "genero": ["Didáctico", "Mitología"],
+    "año": -700
+  },
+  {
+    "titulo": "Historias",
+    "autor": "Heródoto",
+    "genero": ["Historia", "Ensayo"],
+    "año": -440
+  },
+  {
+    "titulo": "Anábasis",
+    "autor": "Jenofonte",
+    "genero": ["Historia", "Aventura"],
+    "año": -370
+  },
+  {
+    "titulo": "La República",
+    "autor": "Platón",
+    "genero": ["Filosofía", "Política"],
+    "año": -380
+  },
+  {
+    "titulo": "Ética a Nicómaco",
+    "autor": "Aristóteles",
+    "genero": ["Filosofía", "Ética"],
+    "año": -340
+  },
+  {
+    "titulo": "Los doce libros de los elementos",
+    "autor": "Euclides",
+    "genero": ["Matemática", "Ciencia"],
+    "año": -300
+  },
+  {
+    "titulo": "Los trabajos de Heracles",
+    "autor": "Pseudo-Apolodoro",
+    "genero": ["Mitología", "Narrativa"],
+    "año": -100
+  },
+  {
+    "titulo": "Las fábulas",
+    "autor": "Esopo",
+    "genero": ["Fábula", "Didáctico"],
+    "año": -600
+  },
+  {
+    "titulo": "La Biblia",
+    "autor": "Varios autores",
+    "genero": ["Religioso", "Sagrado"],
+    "año": -500
+  },
+  {
+    "titulo": "El Corán",
+    "autor": "Mahoma",
+    "genero": ["Religioso", "Sagrado"],
+    "año": 632
+  },
+  {
+    "titulo": "El Bhagavad Gita",
+    "autor": "Vyasa",
+    "genero": ["Filosofía", "Espiritualidad"],
+    "año": -200
+  },
+  {
+    "titulo": "El Mahabharata",
+    "autor": "Vyasa",
+    "genero": ["Épica", "Mitología"],
+    "año": -400
+  },
+  {
+    "titulo": "El Ramayana",
+    "autor": "Valmiki",
+    "genero": ["Épica", "Mitología"],
+    "año": -300
+  },
+  {
+    "titulo": "El Popol Vuh",
+    "autor": "Anónimo",
+    "genero": ["Mitología", "Religioso"],
+    "año": 1550
+  },
+  {
+    "titulo": "Beowulf",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Mitología"],
+    "año": 975
+  },
+  {
+    "titulo": "El cantar de mio Cid",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Medieval"],
+    "año": 1200
+  },
+  {
+    "titulo": "Las mil y una noches",
+    "autor": "Anónimo",
+    "genero": ["Cuentos", "Aventura", "Mitología"],
+    "año": 800
+  },
+    {
+    "titulo": "Cantar de Roldán",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Medieval"],
+    "año": 1100
+  },
+  {
+    "titulo": "Tristán e Isolda",
+    "autor": "Anónimo",
+    "genero": ["Romance", "Leyenda artúrica"],
+    "año": 1170
+  },
+  {
+    "titulo": "Perceval o el cuento del Grial",
+    "autor": "Chrétien de Troyes",
+    "genero": ["Caballería", "Leyenda artúrica"],
+    "año": 1190
+  },
+  {
+    "titulo": "La canción de los Nibelungos",
+    "autor": "Anónimo",
+    "genero": ["Épica", "Mitología germánica"],
+    "año": 1200
+  },
+  {
+    "titulo": "Roman de la Rose",
+    "autor": ["Guillaume de Lorris", "Jean de Meung"],
+    "genero": ["Allegórico", "Romance"],
+    "año": 1230
+  },
+  {
+    "titulo": "La leyenda dorada",
+    "autor": "Jacobo de la Vorágine",
+    "genero": ["Religioso", "Hagiografía"],
+    "año": 1260
+  },
+  {
+    "titulo": "Summa Theologica",
+    "autor": "Tomás de Aquino",
+    "genero": ["Filosofía", "Teología"],
+    "año": 1274
+  },
+  {
+    "titulo": "Libro de buen amor",
+    "autor": "Juan Ruiz (Arcipreste de Hita)",
+    "genero": ["Sátira", "Poético", "Didáctico"],
+    "año": 1330
+  },
+  {
+    "titulo": "Los cuentos de Canterbury",
+    "autor": "Geoffrey Chaucer",
+    "genero": ["Cuentos", "Sátira social"],
+    "año": 1387
+  },
+  {
+    "titulo": "Decir de las siete artes liberales",
+    "autor": "Alain de Lille",
+    "genero": ["Filosofía", "Didáctico"],
+    "año": 1175
+  },
+  {
+    "titulo": "La historia de Genji",
+    "autor": "Murasaki Shikibu",
+    "genero": ["Romance", "Corte imperial japonesa"],
+    "año": 1010
+  },
+  {
+    "titulo": "El libro de Marco Polo (Il Milione)",
+    "autor": "Marco Polo",
+    "genero": ["Viajes", "Crónica"],
+    "año": 1298
+  },
+  {
+    "titulo": "El collar de la paloma",
+    "autor": "Ibn Hazm",
+    "genero": ["Filosofía", "Romance", "Ensayo"],
+    "año": 1022
+  },
+  {
+    "titulo": "La consolación de la filosofía",
+    "autor": "Boecio",
+    "genero": ["Filosofía", "Reflexión moral"],
+    "año": 524
+  },
+  {
+    "titulo": "Las confesiones",
+    "autor": "San Agustín de Hipona",
+    "genero": ["Filosofía", "Religioso", "Autobiográfico"],
+    "año": 398
+  },
+  {
+    "titulo": "El libro del caballero Zifar",
+    "autor": "Anónimo",
+    "genero": ["Caballería", "Aventura"],
+    "año": 1300
+  },
+  {
+    "titulo": "Edda poética",
+    "autor": "Anónimo islandés",
+    "genero": ["Mitología nórdica", "Épica"],
+    "año": 1270
+  },
+  {
+    "titulo": "Edda prosaica",
+    "autor": "Snorri Sturluson",
+    "genero": ["Mitología nórdica", "Manual poético"],
+    "año": 1220
+  },
+  {
+    "titulo": "La historia eclesiástica del pueblo inglés",
+    "autor": "Beda el Venerable",
+    "genero": ["Historia", "Religioso"],
+    "año": 731
+  },
+  {
+    "titulo": "El Conde Lucanor",
+    "autor": "Don Juan Manuel",
+    "genero": ["Narrativa", "Didáctico"],
+    "año": 1335
+  },
+  {
+    "titulo": "Le Morte d’Arthur",
+    "autor": "Thomas Malory",
+    "genero": ["Caballería", "Leyenda artúrica"],
+    "año": 1485
+  },
+  {
+    "titulo": "El libro de la vida contemplativa",
+    "autor": "San Bernardo de Claraval",
+    "genero": ["Filosofía", "Religioso"],
+    "año": 1150
+  },
+  {
+    "titulo": "De civitate Dei (La ciudad de Dios)",
+    "autor": "San Agustín de Hipona",
+    "genero": ["Filosofía", "Teología"],
+    "año": 426
   }
 ]
