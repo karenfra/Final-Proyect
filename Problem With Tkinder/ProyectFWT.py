@@ -1,16 +1,27 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
 import json
+import time
+import os
 
 KEY = "123"
 
 def cargar_datos(nombre_archivo):
+    if not os.path.exists(nombre_archivo):
+        messagebox.showerror("Error", f"No se encontró el archivo '{nombre_archivo}'.")
+        return []
     with open(nombre_archivo, "r", encoding="utf-8") as archivo:
-        return json.load(archivo)
+        try:
+            datos = json.load(archivo)
+            if not datos:
+                messagebox.showwarning("Aviso", f"El archivo '{nombre_archivo}' está vacío.")
+            return datos
+        except json.JSONDecodeError:
+            messagebox.showerror("Error", f"El archivo '{nombre_archivo}' contiene errores JSON.")
+            return []
 
 def recomendar(items, tipo, generos_pref, persona_pref, año_min, año_max):
     recomendaciones = []
-
     for item in items:
         puntuacion = 0
         generos_item = [gen.lower() for gen in item["genero"]]
@@ -90,11 +101,6 @@ class RecomendadorApp:
         style.map("Treeview",
                   background=[("selected", naranja)])
 
-        style.configure("Vertical.TScrollbar",
-                        background=panel,
-                        troughcolor=fondo,
-                        bordercolor=fondo)
-
         self.user = ""
         self.mostrar_login()
 
@@ -163,6 +169,7 @@ class RecomendadorApp:
         ttk.Button(frame, text="Volver", command=self.mostrar_tipo).pack()
 
     def mostrar_resultados(self):
+        # 🔹 Obtener los valores ANTES de limpiar
         generos = [g.strip().lower() for g in self.generos_entry.get().split(",") if g.strip()]
         persona = self.persona_entry.get().strip() or None
         año_min = self.año_min_entry.get().strip()
@@ -171,11 +178,28 @@ class RecomendadorApp:
         año_min = int(año_min) if año_min.isdigit() else None
         año_max = int(año_max) if año_max.isdigit() else None
 
+        # 🔹 Mostrar barra de progreso
+        self.limpiar_ventana()
+        frame_carga = ttk.Frame(self.root, padding=30)
+        frame_carga.pack(expand=True)
+
+        ttk.Label(frame_carga, text="Generando recomendaciones...", font=("Arial", 12, "bold")).pack(pady=10)
+        progreso = ttk.Progressbar(frame_carga, orient="horizontal", length=400, mode="determinate")
+        progreso.pack(pady=15)
+
+        self.root.update_idletasks()
+        for i in range(0, 101, 10):
+            progreso["value"] = i
+            self.root.update()
+            time.sleep(0.05)
+
+        # 🔹 Cargar datos
         archivo = "libros.json" if self.tipo_actual == "libro" else "peliculas.json"
         items = cargar_datos(archivo)
 
         recomendaciones = recomendar(items, self.tipo_actual, generos, persona, año_min, año_max)
 
+        # 🔹 Mostrar resultados
         self.limpiar_ventana()
         frame = ttk.Frame(self.root, padding=15)
         frame.pack(expand=True, fill="both")
